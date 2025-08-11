@@ -1,2 +1,0 @@
-# Koinkasterbot
-Earning bot
